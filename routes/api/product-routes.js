@@ -26,7 +26,7 @@ router.get('/', (req, res) => {
     res.status(500).json(err);
   });
 });    
-});
+
 
 // get one product
 router.get('/:id', (req, res) => {
