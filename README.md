@@ -30,9 +30,10 @@ https://github.com/Melpie10/m13-challenge-ecommerce
 
 Walkthrough videos: 
 
-1. Creating from mysql shell
+1. Creating the schema from mysql shell & seed data/ starting the server
 
-2. seeding the database
+https://watch.screencastify.com/v/3xhBsmSgxyMTT2w5XbHH
+
 
 3. starting the server
 
