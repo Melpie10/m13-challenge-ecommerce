@@ -21,10 +21,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Access
 
 The website can be accessed from Github repository:
-
-
 https://github.com/Melpie10/m13-challenge-ecommerce
-
 
  ## Visuals
 
@@ -33,6 +30,8 @@ Walkthrough videos:
 1. Creating the schema from mysql shell & seed data/ starting the server
 
 https://watch.screencastify.com/v/3xhBsmSgxyMTT2w5XbHH
+https://user-images.githubusercontent.com/92319522/153939750-b9b41b73-1fc8-45dc-9621-297e58bcc60b.mp4
+
 
 
 3. starting the server
