@@ -34,16 +34,17 @@ Walkthrough videos:
 
 https://watch.screencastify.com/v/3xhBsmSgxyMTT2w5XbHH
 
+4. Insomnia test Demo of GET routes for all Categories, all products, and all tags
 
-3. starting the server
-
-4. Insomnia test Demo of GET routes for Categories, products, and tags
+https://watch.screencastify.com/v/CSrNnMLmWpaUjC2Z11yB
 
 5. Insomnia test Demo of Get routes by ID for Categories, products, and tags
 
+https://watch.screencastify.com/v/YrWFGDag4lNmBuKRyraf
+
 6. Insomnia test Demo of PUT, POST and DELETE routes for Categories, products, and tags
 
-
+https://watch.screencastify.com/v/MeOHsbZb4cqdEil27Lnt
 
 ## Contributing
 
